@@ -1,0 +1,20 @@
+	TEORIA
+1) No, ya que dice que no es necesario almacenar un historial.
+   No, se podría usar un diccionario con el ID del producto y su disponibilidad.
+
+2) Si, para que el registro persista.
+   No, no es necesario.
+
+3) Si, ya que se podría usar en la "key" el DNI y las reservas en "values".
+   No, no es necesario.
+
+4) Si, para poder calcular los puntos de fidelidad de manera eficiente.
+   Si, para proteger el historial de compra de los clientes.
+
+5) Si, sería mas optimo que crear una clase Tipo.
+   No, no es necesario.
+
+	BONUS
+ Privado: solo tiene acceso la clase en la que se definio
+ Protegido: tiene acceso la clase en la que se definio y en las clases derivadas
+ Publico: cualquier clase tiene acceso
